@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Natalia and I'm currently learning C# 🔭
+ICT student at Wrocław University of Science and Technology 💻
 
 <!--
 **KropaPL/KropaPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
