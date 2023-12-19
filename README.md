@@ -1,5 +1,5 @@
 ### Hi there 👋 <br>
-I'm Natalia and I'm currently learning C# 🔭 <br>
+I'm Natalia and I'm currently learning Java and C# 🔭 <br>
 ICT student at Wrocław University of Science and Technology 💻
 
 <!--
